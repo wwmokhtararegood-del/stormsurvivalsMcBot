@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'stormSurvivals1.aternos.me',
     port: 12311,
-    username: 'stormycore',
+    username: 'survivalscore',
     version: '1.20.1',
     auth: 'offline'
   })
