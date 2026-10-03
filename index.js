@@ -6,7 +6,7 @@ function createBot() {
     port: 12311,
     username: 'survivalscore',
     version: '1.20.1',
-    auth: 'offline'
+    auth: 'online'
   })
 
   bot.on('spawn', () => {
